@@ -4,7 +4,8 @@
   "description": "",
   "main": "testing.js",
   "scripts": {
-    "test": "nodemon server/index.js"
+    "test": "nodemon ",
+    "start":"node server/index.js "
   },
   "keywords": [],
   "author": "",
